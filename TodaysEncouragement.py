@@ -13,6 +13,6 @@ elif dd == 'Sat':
 elif dd == 'Sun':
     print('Feel So Goood')
 elif dd == 'Mon':
-    print('Im Die, Thank you forever')
+    print('I\'m Die, Thank you forever')
 else :
     print('You cannot give up just yet... RyN! Stay determined...')
