@@ -1,6 +1,6 @@
 daylist = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-print('What day of the week is it today?')
+print('What day of the week is it today?\nYou can use Mon/Tue/Wed/Thu/Fri/Sat/Sun')
 
 dd = input()
 
